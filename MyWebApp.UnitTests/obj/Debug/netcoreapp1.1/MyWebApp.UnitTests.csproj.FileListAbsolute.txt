@@ -1,0 +1,11 @@
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\MyWebApp.UnitTests.deps.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\MyWebApp.UnitTests.runtimeconfig.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\MyWebApp.UnitTests.runtimeconfig.dev.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\MyWebApp.UnitTests.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\bin\Debug\netcoreapp1.1\MyWebApp.UnitTests.pdb
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\obj\Debug\netcoreapp1.1\MyWebApp.UnitTests.AssemblyInfo.cs
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\obj\Debug\netcoreapp1.1\MyWebApp.UnitTests.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp.UnitTests\obj\Debug\netcoreapp1.1\MyWebApp.UnitTests.pdb

@@ -1,0 +1,9 @@
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\bin\Debug\netcoreapp1.1\MyWebAppStatic.deps.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\bin\Debug\netcoreapp1.1\MyWebAppStatic.runtimeconfig.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\bin\Debug\netcoreapp1.1\MyWebAppStatic.runtimeconfig.dev.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\bin\Debug\netcoreapp1.1\MyWebAppStatic.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\bin\Debug\netcoreapp1.1\MyWebAppStatic.pdb
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\obj\Debug\netcoreapp1.1\MyWebAppStatic.csprojResolveAssemblyReference.cache
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\obj\Debug\netcoreapp1.1\MyWebAppStatic.AssemblyInfo.cs
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\obj\Debug\netcoreapp1.1\MyWebAppStatic.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebAppStatic\obj\Debug\netcoreapp1.1\MyWebAppStatic.pdb

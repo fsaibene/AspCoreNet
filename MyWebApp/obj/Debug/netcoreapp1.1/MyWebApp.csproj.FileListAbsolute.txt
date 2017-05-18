@@ -1,0 +1,9 @@
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\bin\Debug\netcoreapp1.1\MyWebApp.deps.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\bin\Debug\netcoreapp1.1\MyWebApp.runtimeconfig.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\bin\Debug\netcoreapp1.1\MyWebApp.runtimeconfig.dev.json
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\bin\Debug\netcoreapp1.1\MyWebApp.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\bin\Debug\netcoreapp1.1\MyWebApp.pdb
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\obj\Debug\netcoreapp1.1\MyWebApp.AssemblyInfo.cs
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\obj\Debug\netcoreapp1.1\MyWebApp.dll
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\obj\Debug\netcoreapp1.1\MyWebApp.pdb
+C:\Users\fsaibene\documents\visual studio 2017\Projects\MyWebApp\MyWebApp\obj\Debug\netcoreapp1.1\MyWebApp.csprojResolveAssemblyReference.cache
